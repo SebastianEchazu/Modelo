@@ -10,6 +10,7 @@ Modelo
 * [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5) 
 * [Bootstrap](https://getbootstrap.com/) 
 * [Jquery](https://jquery.com/) 
+* [Typora](https://www.typora.io/) -  archivo Readme.md
 
 ## ✒️ Autor
 
