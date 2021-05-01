@@ -1,10 +1,24 @@
-# Nombre del proyecto
+# Project's Name
 
-Descripción del proyecto 
+brief description of your project
 
 ![mini](mini.png)
 
-## 🛠️ Construido con :
+
+
+## ⚙️ Finality of the proyect
+
+we specify what is the functionality of the proyect
+
+
+
+## 📋 Pre requirements
+
+What you need to install the software and how to install them
+
+
+
+## 🛠️ Build with :
 
 
 * [Visual Studio 2019](https://visualstudio.microsoft.com/es/vs/) 
@@ -17,9 +31,29 @@ Descripción del proyecto
 * [Typora](https://www.typora.io/) 
 * [Canva](https://www.canva.com/)
 
-## ✒️ Autor
 
-**Sebastián Echazú** 
+
+## 📖 Wiki 
+
+You can find much more about how to use this project on our Wiki.
+
+
+
+## 🔧 Project development 
+
+in this blog you will find instructions to create this project.
+
+
+
+## 📄 License
+
+In this blog you will find the instructions to create this project.
+
+
+
+## ✒️ Author
+
+> **Sebastián Echazú** 
 
 * [Web](https://sebastianechazu.com/)
 * [LinkedIn](https://www.linkedin.com/in/sebastian-echazu/)
@@ -28,10 +62,10 @@ Descripción del proyecto
 
 
 
-## 🎁 Expresiones de Gratitud 
+## 🎁 Expressions of Gratitude 
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ al autor.  🤓. 
+* Tell others about this project 📢
+* Invite a beer 🍺 or a coffee ☕ to the author.  🤓. 
 
 ---
 ⌨️ con ❤️ por Sebastian Echazú 😊
