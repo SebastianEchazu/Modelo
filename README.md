@@ -68,5 +68,5 @@ In this blog you will find the instructions to create this project.
 * Invite a beer 🍺 or a coffee ☕ to the author.  🤓. 
 
 ---
-⌨️ con ❤️ por Sebastian Echazú 😊
+⌨️ with ❤️ for Sebastian Echazú 😊
 
